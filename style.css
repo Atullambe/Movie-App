@@ -1,0 +1,6 @@
+.movie-list p{
+    background-color: black;
+    color: tomato;
+    border: 2px solid greenyellow;
+    width: max-content;
+}
